@@ -1,0 +1,150 @@
+[
+  {
+    "name": "Audi",
+    "nameUrl": "audi"
+  },
+  {
+    "name": "BMW",
+    "nameUrl": "bmw"
+  },
+  {
+    "name": "Chevrolet",
+    "nameUrl": "chevrolet"
+  },
+  {
+    "name": "Citroën",
+    "nameUrl": "citroen"
+  },
+  {
+    "name": "Fiat",
+    "nameUrl": "fiat"
+  },
+  {
+    "name": "Ford",
+    "nameUrl": "ford"
+  },
+  {
+    "name": "Honda",
+    "nameUrl": "honda"
+  },
+  {
+    "name": "Hyundai",
+    "nameUrl": "hyundai"
+  },
+  {
+    "name": "Jeep",
+    "nameUrl": "jeep"
+  },
+  {
+    "name": "Kia",
+    "nameUrl": "kia"
+  },
+  {
+    "name": "Mitsubishi",
+    "nameUrl": "mitsubishi"
+  },
+  {
+    "name": "Nissan",
+    "nameUrl": "nissan"
+  },
+  {
+    "name": "Peugeot",
+    "nameUrl": "peugeot"
+  },
+  {
+    "name": "Renault",
+    "nameUrl": "renault"
+  },
+  {
+    "name": "Toyota",
+    "nameUrl": "toyota"
+  },
+  {
+    "name": "Volkswagen",
+    "nameUrl": "volkswagen"
+  },
+  {
+    "name": "Aston Martin",
+    "nameUrl": "astonmartin"
+  },
+  {
+    "name": "BYD",
+    "nameUrl": "byd"
+  },
+  {
+    "name": "CAOA Chery",
+    "nameUrl": "caoachery"
+  },
+  {
+    "name": "Effa",
+    "nameUrl": "effa"
+  },
+  {
+    "name": "Ferrari",
+    "nameUrl": "ferrari"
+  },
+  {
+    "name": "GWM",
+    "nameUrl": "gwm"
+  },
+  {
+    "name": "JAC",
+    "nameUrl": "jac"
+  },
+  {
+    "name": "Jaguar",
+    "nameUrl": "jaguar"
+  },
+  {
+    "name": "Lamborghini",
+    "nameUrl": "lamborghini"
+  },
+  {
+    "name": "Land Rover",
+    "nameUrl": "landrover"
+  },
+  {
+    "name": "Lexus",
+    "nameUrl": "lexus"
+  },
+  {
+    "name": "McLaren",
+    "nameUrl": "mclaren"
+  },
+  {
+    "name": "Mercedes-Benz",
+    "nameUrl": "mercedesbenz"
+  },
+  {
+    "name": "MINI",
+    "nameUrl": "mini"
+  },
+  {
+    "name": "Porsche",
+    "nameUrl": "porsche"
+  },
+  {
+    "name": "RAM",
+    "nameUrl": "ram"
+  },
+  {
+    "name": "Rolls-Royce",
+    "nameUrl": "rollsroyce"
+  },
+  {
+    "name": "Seres",
+    "nameUrl": "seres"
+  },
+  {
+    "name": "Subaru",
+    "nameUrl": "subaru"
+  },
+  {
+    "name": "Suzuki",
+    "nameUrl": "suzuki"
+  },
+  {
+    "name": "Volvo",
+    "nameUrl": "volvo"
+  }
+]
