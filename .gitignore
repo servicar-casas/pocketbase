@@ -1,0 +1,6 @@
+*.webp
+servicar
+servicar.exe
+
+pb_data/auxiliary.db
+pb_public/unzip_on_install.7z
